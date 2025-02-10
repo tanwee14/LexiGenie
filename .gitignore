@@ -82,3 +82,5 @@ secrets.json
 
 # LanguageTool & Other NLP Resources
 .languagetool/
+
+TextCraft_Backend/venv/
