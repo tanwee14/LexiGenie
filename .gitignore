@@ -44,6 +44,11 @@ Pipfile
 Pipfile.lock
 poetry.lock
 
+# Ignore large libraries
+TextCraft_Backend/venv/
+TextCraft_Backend/venv/Lib/site-packages/
+
+
 # Hugging Face Models & Transformers Cache
 ~/.cache/huggingface/
 ~/.huggingface/
