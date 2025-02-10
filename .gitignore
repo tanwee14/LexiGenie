@@ -47,7 +47,7 @@ poetry.lock
 # Ignore large libraries
 TextCraft_Backend/venv/
 TextCraft_Backend/venv/Lib/site-packages/
-
+TextCraft_Backend/venv/Lib/site-packages/torch/lib/
 
 # Hugging Face Models & Transformers Cache
 ~/.cache/huggingface/
