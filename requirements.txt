@@ -1,0 +1,13 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+requests==2.31.0
+python-multipart==0.0.6
+pydantic==1.10.7
+openai==0.27.8
+transformers==4.34.0
+torch==2.0.1
+sentencepiece==0.1.99
+numpy==1.26.4
+pandas==2.0.3
+python-dotenv==1.0.0
+npm install
