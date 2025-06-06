@@ -1,7 +1,4 @@
 ﻿# TextCraft !!
-
- Sure! Here’s the README updated with a **History Feature** section included:
-
 ---
 
 # TextCraft
