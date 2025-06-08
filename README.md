@@ -71,12 +71,19 @@ npm start
 ---
 ## Screenshots 
 ![Screenshot 2024-10-23 215250](https://github.com/user-attachments/assets/e149cd40-c3e1-4507-895b-9409c389f8d5)
+
 ![Screenshot 2024-10-23 220509](https://github.com/user-attachments/assets/d5837dcb-cd6b-497a-83ab-ed09d3c655c2)
+
 ![Screenshot 2024-10-23 230830](https://github.com/user-attachments/assets/0a0db302-d6fe-499e-b770-18936c02a37c)
+
 ![Screenshot 2024-10-24 125458](https://github.com/user-attachments/assets/39e34481-22c3-4a6b-85f8-5f8049f330c7)
+
 ![Screenshot 2024-11-14 202629](https://github.com/user-attachments/assets/47ddd670-c126-42d5-bc76-c172cd7542c0)
+
 ![Screenshot 2024-11-14 202757](https://github.com/user-attachments/assets/0f8872d3-afc9-405d-b29b-5b03e49a2d27)
+
 ![Screenshot 2024-11-30 105732](https://github.com/user-attachments/assets/78242a18-162c-4973-8758-372996ae903b)
+
 
 ## Usage
 
